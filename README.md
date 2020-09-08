@@ -1,4 +1,4 @@
-# Twitter-Ai-Spam-Filter
+# Twitter-Ai-Spam-Filter Chrome extension
 A chrome extension that hides spam in tags using the (ML model results)
 
 # IMPORTANT! 
