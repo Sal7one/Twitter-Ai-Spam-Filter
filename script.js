@@ -100,7 +100,7 @@ window.onload = function () {
         }
       },
       error: function (error) {
-        console.log("Something went wrong with the ai server contact ", error);
+        console.log("Something went wrong with the ai server  ", error);
       },
     });
 
