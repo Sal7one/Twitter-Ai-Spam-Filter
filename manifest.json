@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter AI Spam blocker",
+  "version": "0.2.0",
+  "description": "Block Spam tweets using machine learning!!",
+  "content_scripts": [
+    {
+      "js": [
+        "script.js",
+        "bower_components/arrive/src/arrive.js",
+        "bower_components/jquery/dist/jquery.min.js"
+      ],
+      "matches": ["https://twitter.com/*"]
+    }
+  ]
+}
